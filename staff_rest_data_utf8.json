@@ -1,0 +1,100 @@
+﻿{
+  "documents": [
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/GoOx48iYkLnrWYH6rqS0",
+      "fields": {
+        "pin": {
+          "stringValue": "4001"
+        },
+        "role": {
+          "stringValue": "driver"
+        },
+        "name": {
+          "stringValue": "Driver 1"
+        }
+      },
+      "createTime": "2026-02-24T17:36:06.414666Z",
+      "updateTime": "2026-02-24T17:36:06.414666Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/NNXr00JLzXpXB33yMi90",
+      "fields": {
+        "pin": {
+          "stringValue": "1000"
+        },
+        "role": {
+          "stringValue": "manager"
+        },
+        "name": {
+          "stringValue": "Manager"
+        }
+      },
+      "createTime": "2026-02-24T17:36:02.408056Z",
+      "updateTime": "2026-02-24T17:36:02.408056Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/QDBwP8QxOOOy0iGMYULg",
+      "fields": {
+        "pin": {
+          "stringValue": "3002"
+        },
+        "role": {
+          "stringValue": "counter"
+        },
+        "name": {
+          "stringValue": "Counter Staff 2"
+        }
+      },
+      "createTime": "2026-02-24T17:36:06.154997Z",
+      "updateTime": "2026-02-24T17:36:06.154997Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/cxUbs8YNDhOkKbVm7XOt",
+      "fields": {
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "name": {
+          "stringValue": "Kitchen Staff 1"
+        },
+        "pin": {
+          "stringValue": "2001"
+        }
+      },
+      "createTime": "2026-02-24T17:36:03.271495Z",
+      "updateTime": "2026-02-24T17:36:03.271495Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/mt1njcihhf7uzwhTpJE0",
+      "fields": {
+        "name": {
+          "stringValue": "Counter Staff 1"
+        },
+        "role": {
+          "stringValue": "counter"
+        },
+        "pin": {
+          "stringValue": "3001"
+        }
+      },
+      "createTime": "2026-02-24T17:36:05.204151Z",
+      "updateTime": "2026-02-24T17:36:05.204151Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/riPgwQYr02udp4Gi8zVJ",
+      "fields": {
+        "pin": {
+          "stringValue": "2002"
+        },
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "name": {
+          "stringValue": "Kitchen Staff 2"
+        }
+      },
+      "createTime": "2026-02-24T17:36:03.577670Z",
+      "updateTime": "2026-02-24T17:36:03.577670Z"
+    }
+  ]
+}

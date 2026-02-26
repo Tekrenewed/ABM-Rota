@@ -1,0 +1,180 @@
+﻿{
+  "documents": [
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW101",
+      "fields": {
+        "pin": {
+          "stringValue": "1111"
+        },
+        "role": {
+          "stringValue": "manager"
+        },
+        "staffCode": {
+          "stringValue": "RTW101"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "Alice Smith"
+        }
+      },
+      "createTime": "2026-02-25T16:30:44.129654Z",
+      "updateTime": "2026-02-25T16:30:44.129654Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW102",
+      "fields": {
+        "pin": {
+          "stringValue": "2222"
+        },
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "Bob Johnson"
+        },
+        "staffCode": {
+          "stringValue": "RTW102"
+        }
+      },
+      "createTime": "2026-02-25T16:30:44.388326Z",
+      "updateTime": "2026-02-25T16:30:44.388326Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW103",
+      "fields": {
+        "staffCode": {
+          "stringValue": "RTW103"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "Charlie Brown"
+        },
+        "pin": {
+          "stringValue": "3333"
+        },
+        "role": {
+          "stringValue": "counter"
+        }
+      },
+      "createTime": "2026-02-25T16:30:44.930791Z",
+      "updateTime": "2026-02-25T16:30:44.930791Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW104",
+      "fields": {
+        "pin": {
+          "stringValue": "4444"
+        },
+        "role": {
+          "stringValue": "driver"
+        },
+        "staffCode": {
+          "stringValue": "RTW104"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "David Lee"
+        }
+      },
+      "createTime": "2026-02-25T16:30:45.171785Z",
+      "updateTime": "2026-02-25T16:30:45.171785Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW105",
+      "fields": {
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "pin": {
+          "stringValue": "5555"
+        },
+        "name": {
+          "stringValue": "Emma Watson"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW105"
+        }
+      },
+      "createTime": "2026-02-25T16:30:45.694402Z",
+      "updateTime": "2026-02-25T16:30:45.694402Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW106",
+      "fields": {
+        "staffCode": {
+          "stringValue": "RTW106"
+        },
+        "name": {
+          "stringValue": "Fiona Gallagher"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "role": {
+          "stringValue": "counter"
+        },
+        "pin": {
+          "stringValue": "6666"
+        }
+      },
+      "createTime": "2026-02-25T16:30:45.929701Z",
+      "updateTime": "2026-02-25T16:30:45.929701Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW107",
+      "fields": {
+        "role": {
+          "stringValue": "driver"
+        },
+        "pin": {
+          "stringValue": "7777"
+        },
+        "staffCode": {
+          "stringValue": "RTW107"
+        },
+        "name": {
+          "stringValue": "George Clooney"
+        },
+        "isActive": {
+          "booleanValue": true
+        }
+      },
+      "createTime": "2026-02-25T16:30:46.463472Z",
+      "updateTime": "2026-02-25T16:30:46.463472Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW108",
+      "fields": {
+        "staffCode": {
+          "stringValue": "RTW108"
+        },
+        "name": {
+          "stringValue": "Hannah Montana"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "pin": {
+          "stringValue": "8888"
+        }
+      },
+      "createTime": "2026-02-25T16:30:46.708623Z",
+      "updateTime": "2026-02-25T16:30:46.708623Z"
+    }
+  ]
+}

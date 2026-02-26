@@ -1,0 +1,276 @@
+﻿{
+  "documents": [
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/GoOx48iYkLnrWYH6rqS0",
+      "fields": {
+        "role": {
+          "stringValue": "driver"
+        },
+        "pin": {
+          "stringValue": "4001"
+        },
+        "name": {
+          "stringValue": "Driver 1"
+        }
+      },
+      "createTime": "2026-02-24T17:36:06.414666Z",
+      "updateTime": "2026-02-24T17:36:06.414666Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/NNXr00JLzXpXB33yMi90",
+      "fields": {
+        "name": {
+          "stringValue": "Manager"
+        },
+        "pin": {
+          "stringValue": "1000"
+        },
+        "role": {
+          "stringValue": "manager"
+        }
+      },
+      "createTime": "2026-02-24T17:36:02.408056Z",
+      "updateTime": "2026-02-24T17:36:02.408056Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/QDBwP8QxOOOy0iGMYULg",
+      "fields": {
+        "pin": {
+          "stringValue": "3002"
+        },
+        "name": {
+          "stringValue": "Counter Staff 2"
+        },
+        "role": {
+          "stringValue": "counter"
+        }
+      },
+      "createTime": "2026-02-24T17:36:06.154997Z",
+      "updateTime": "2026-02-24T17:36:06.154997Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW101",
+      "fields": {
+        "name": {
+          "stringValue": "Alice Smith"
+        },
+        "pin": {
+          "stringValue": "1111"
+        },
+        "role": {
+          "stringValue": "manager"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW101"
+        }
+      },
+      "createTime": "2026-02-25T16:30:44.129654Z",
+      "updateTime": "2026-02-25T16:30:44.129654Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW102",
+      "fields": {
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "name": {
+          "stringValue": "Bob Johnson"
+        },
+        "pin": {
+          "stringValue": "2222"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW102"
+        }
+      },
+      "createTime": "2026-02-25T16:30:44.388326Z",
+      "updateTime": "2026-02-25T16:30:44.388326Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW103",
+      "fields": {
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW103"
+        },
+        "name": {
+          "stringValue": "Charlie Brown"
+        },
+        "pin": {
+          "stringValue": "3333"
+        },
+        "role": {
+          "stringValue": "counter"
+        }
+      },
+      "createTime": "2026-02-25T16:30:44.930791Z",
+      "updateTime": "2026-02-25T16:30:44.930791Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW104",
+      "fields": {
+        "name": {
+          "stringValue": "David Lee"
+        },
+        "pin": {
+          "stringValue": "4444"
+        },
+        "role": {
+          "stringValue": "driver"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW104"
+        }
+      },
+      "createTime": "2026-02-25T16:30:45.171785Z",
+      "updateTime": "2026-02-25T16:30:45.171785Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW105",
+      "fields": {
+        "name": {
+          "stringValue": "Emma Watson"
+        },
+        "pin": {
+          "stringValue": "5555"
+        },
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW105"
+        }
+      },
+      "createTime": "2026-02-25T16:30:45.694402Z",
+      "updateTime": "2026-02-25T16:30:45.694402Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW106",
+      "fields": {
+        "pin": {
+          "stringValue": "6666"
+        },
+        "name": {
+          "stringValue": "Fiona Gallagher"
+        },
+        "role": {
+          "stringValue": "counter"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW106"
+        }
+      },
+      "createTime": "2026-02-25T16:30:45.929701Z",
+      "updateTime": "2026-02-25T16:30:45.929701Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW107",
+      "fields": {
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW107"
+        },
+        "pin": {
+          "stringValue": "7777"
+        },
+        "name": {
+          "stringValue": "George Clooney"
+        },
+        "role": {
+          "stringValue": "driver"
+        }
+      },
+      "createTime": "2026-02-25T16:30:46.463472Z",
+      "updateTime": "2026-02-25T16:30:46.463472Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/RTW108",
+      "fields": {
+        "pin": {
+          "stringValue": "8888"
+        },
+        "name": {
+          "stringValue": "Hannah Montana"
+        },
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "isActive": {
+          "booleanValue": true
+        },
+        "staffCode": {
+          "stringValue": "RTW108"
+        }
+      },
+      "createTime": "2026-02-25T16:30:46.708623Z",
+      "updateTime": "2026-02-25T16:30:46.708623Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/cxUbs8YNDhOkKbVm7XOt",
+      "fields": {
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "pin": {
+          "stringValue": "2001"
+        },
+        "name": {
+          "stringValue": "Kitchen Staff 1"
+        }
+      },
+      "createTime": "2026-02-24T17:36:03.271495Z",
+      "updateTime": "2026-02-24T17:36:03.271495Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/mt1njcihhf7uzwhTpJE0",
+      "fields": {
+        "pin": {
+          "stringValue": "3001"
+        },
+        "name": {
+          "stringValue": "Counter Staff 1"
+        },
+        "role": {
+          "stringValue": "counter"
+        }
+      },
+      "createTime": "2026-02-24T17:36:05.204151Z",
+      "updateTime": "2026-02-24T17:36:05.204151Z"
+    },
+    {
+      "name": "projects/roti-naan-wala/databases/(default)/documents/staff/riPgwQYr02udp4Gi8zVJ",
+      "fields": {
+        "role": {
+          "stringValue": "kitchen"
+        },
+        "pin": {
+          "stringValue": "2002"
+        },
+        "name": {
+          "stringValue": "Kitchen Staff 2"
+        }
+      },
+      "createTime": "2026-02-24T17:36:03.577670Z",
+      "updateTime": "2026-02-24T17:36:03.577670Z"
+    }
+  ]
+}
